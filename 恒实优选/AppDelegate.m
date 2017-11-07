@@ -64,7 +64,7 @@
     
     // 注册APNS
    // [self registerRemoteNotification];
-    
+       QFLOG(@"123");
     return YES;
 }
 
